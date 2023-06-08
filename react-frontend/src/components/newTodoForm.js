@@ -54,8 +54,7 @@ function NewTodoForm(props) {
                 <button 
                     type="button" 
                     className="btn btn-primary mt-3" 
-                    onClick={submitTodo}
-                >
+                    onClick={submitTodo}>
                     Add Todo
                 </button>
             </form>
